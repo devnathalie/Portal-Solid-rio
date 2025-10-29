@@ -9,9 +9,10 @@ Seja por meio da adoção, do apoio às nossas iniciativas ou da divulgação da
 
 📂 Estrutura do Projeto - Portal Solidário. 
 
-📁 Organização: Cada desafio está em uma pasta própria, com nomes padronizados.
+📁 Organização: Cada desafio está em uma pasta própria, com nomes padronizados e imagens. 
 
 🖥 Tecnologias: Dentro de cada pasta você encontra as implementações em HTML(projeto-cadastro), CSS e JavaScript.
 
 ✅ Status: Todos os desafios estão finalizados e prontos para consulta.
+
 
