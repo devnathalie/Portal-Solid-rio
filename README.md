@@ -1,18 +1,15 @@
-Bem - Vindos ao Portal Solidário. 
+Welcome to the Solidarity Portal.
 
-Aqui você encontra informações sobre a nossa ONGs de proteção aos animais de rua.  🐾 
+Here you will find information about our NGOs dedicated to protecting stray animals. 🐾
 
-Com abas de cadastro e mais infos sobre nossos projetos e nosso compromisso em sociedade.  🐶🐱
+The portal includes registration tabs and more information about our projects and our commitment to society. 🐶🐱
 
-Convidamos você a fazer parte dessa transformação. 
-Seja por meio da adoção, do apoio às nossas iniciativas ou da divulgação da causa, cada gesto conta na construção de um futuro melhor para nossos amigos de quatro patas 🐾❤
+We invite you to be part of this transformation. Whether through adoption, supporting our initiatives, or spreading awareness about the cause, every action helps build a better future for our four-legged friends. 🐾❤
 
-📂 Estrutura do Projeto - Portal Solidário. 
+📂 Project Structure – Solidarity Portal
 
-📁 Organização: Cada desafio está em uma pasta própria, com nomes padronizados e imagens. 
+📁 Organization: Each challenge is in its own folder, with standardized names and images.
 
-🖥 Tecnologias: Dentro de cada pasta você encontra as implementações em HTML(projeto-cadastro), CSS e JavaScript.
+🖥 Technologies: Inside each folder you will find the implementations in HTML (registration project), CSS, and JavaScript.
 
-✅ Status: Todos os desafios estão finalizados e prontos para consulta.
-
-
+✅ Status: All challenges are completed and ready for consultation.
